@@ -1,0 +1,76 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em; color: white;
+    background-color: black;
+    margin: 0%;
+ }
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 3em;
+    margin-bottom: 0%;
+}
+
+.portada{
+    width: 100%;
+}
+.bloque2 {
+    padding: 5%;
+    width: 100%;
+    background-color: black;
+    display: flex;
+  }
+.parrafo{
+    width: 50%;
+}
+.bloque2 img {
+width: 50%;
+float: right;
+}
+
+.bloque3{
+    background-color: rgb(65, 58, 58)
+}
+
+.bloque3iconos{
+    padding: 30px;
+    text-align: center;
+}
+.iconos{
+display: inline-block;
+text-align: center;
+width: 30%;
+padding: 1%;
+font-size:medium;
+}
+
+.iconos i {
+    padding: 1em;
+    display: inline-block;
+    font-size: 200%;
+}
+
+.imagenes{
+display: flex;
+
+}
+.fondonegro{
+    display: flex; 
+    width: 60%;
+    border: solid 1 px;
+    margin: 0 auto;
+}
+
+.fondonegro img {
+    width: 31%;
+    padding: 1%;
+    display: flow-root;
+}
+
+footer{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: x-large;
+    background-color: rgb(65, 58, 58);
+    padding: 1em;
+}
